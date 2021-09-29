@@ -27,7 +27,7 @@ program
 // 配置 ui 命令
 program
   .command('ui')
-  .description('start add open mt-cli ui')
+  .description('start add open myt-cli ui')
   .option('-p, --port <port>', 'Port used for the UI Server')
   .action((option) => {
     console.log(option)

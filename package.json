@@ -1,7 +1,7 @@
 {
-  "name": "mt-cli",
-  "version": "1.0.0",
-  "description": "base mt cli",
+  "name": "myt-cli",
+  "version": "1.0.2",
+  "description": "base myt cli",
   "main": "index.js",
   "bin": {
     "mt": "./bin/cli.js"
@@ -11,12 +11,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "mt-cli",
-    "mt",
+    "myt-cli",
+    "myt",
     "脚手架"
   ],
   "author": {
-    "name": "mountain",
+    "name": "mountain410",
     "email": "502597986@qq.com"
   },
   "license": "MIT",
