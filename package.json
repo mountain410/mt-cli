@@ -10,6 +10,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "mt-cli",
+    "mt",
+    "脚手架"
+  ],
   "author": {
     "name": "mountain",
     "email": "502597986@qq.com"
