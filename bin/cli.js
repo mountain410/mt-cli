@@ -42,7 +42,7 @@ program
   // 监听 --help 执行
   .on('--help', () => {
     // 使用 figlet 绘制 Logo
-    console.log('\r\n' + figlet.textSync('MT', {
+    console.log('\r\n' + figlet.textSync('M & T', {
       font: 'Standard',
       horizontalLayout: 'default',
       verticalLayout: 'default',
